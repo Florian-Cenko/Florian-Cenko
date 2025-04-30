@@ -13,7 +13,12 @@ I'm student at the Department of Applied Informatics at University of Macedonia 
 - SQL and database design
 - Working with APIs and RESTful architecture
 
-## 🚀 Projects (sample work):
+## 🚀 Projects:
+- **Eventify**
+- **KU-Detection-Front-End**
+- **KU-Detection-Back-End**
+- **RecyclingProject**
+- **UoMBanking**
 
 ## 📬 How to reach me:
 - **Email:** cenkoflorian@gmail.com
