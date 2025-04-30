@@ -17,7 +17,7 @@ I'm student at the Department of Applied Informatics at University of Macedonia 
 
 ## 📬 How to reach me:
 - **Email:** cenkoflorian@gmail.com
-- **LinkedIn:** [linkedin.com/in/florian-cenko-6a7a19252(https://www.linkedin.com/in/florian-cenko-6a7a19252/)
+- **LinkedIn:** [linkedin.com/in/florian-cenko-6a7a19252 (https://www.linkedin.com/in/florian-cenko-6a7a19252/)
 
  
  
