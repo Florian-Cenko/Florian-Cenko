@@ -15,10 +15,8 @@ I'm student at the Department of Applied Informatics at University of Macedonia 
 
 ## 🚀 Projects:
 - [Eventify: Event & Reservation Management System] (https://github.com/Florian-Cenko/Eventify)
-- **KU-Detection-Front-End**
-- **KU-Detection-Back-End**
-- **RecyclingProject**
-- **UoMBanking**
+- [RecyclingProject: Recycling App] (https://github.com/Florian-Cenko/RecyclingProject)
+- [UoMBanking: e-banking system] (https://github.com/Florian-Cenko/UomBanking)
 
 
 ## 📬 How to reach me:
