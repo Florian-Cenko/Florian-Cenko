@@ -14,11 +14,12 @@ I'm student at the Department of Applied Informatics at University of Macedonia 
 - Working with APIs and RESTful architecture
 
 ## 🚀 Projects:
-- **Eventify**
+- [Eventify: Event & Reservation Management System] (https://github.com/Florian-Cenko/Eventify)
 - **KU-Detection-Front-End**
 - **KU-Detection-Back-End**
 - **RecyclingProject**
 - **UoMBanking**
+
 
 ## 📬 How to reach me:
 - **Email:** cenkoflorian@gmail.com
