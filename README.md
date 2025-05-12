@@ -32,6 +32,15 @@ Here are a few projects I'm proud of:
 - 🔗 [**UoMBanking**](https://github.com/Florian-Cenko/UomBanking)  
   An **e-Banking System** built entirely in **Java** (desktop-based).
 
+  ## 🚀 Other Projects
+
+- 🔗 [**TicTacToePython**](https://github.com/Florian-Cenko/TicTacToePython)  
+  A **classic Tic Tac Toe game** developed using **Python**. The game includes basic functionality for player input, turn-based gameplay, win conditions, and replay options.
+
+- 🔗 [**BlackjackPython**](https://github.com/Florian-Cenko/BlackjackPython)  
+  A **Blackjack card game** written in **Python**. The game allows the player to place bets, hit or stand, and play against the dealer with rules based on the classic game of Blackjack.
+
+
 
 ## 📬 Let's Connect
 
