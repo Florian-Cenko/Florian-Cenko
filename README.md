@@ -24,7 +24,7 @@
 Here are a few projects I'm proud of:
 
 - 🔗 [**Eventify**](https://github.com/Florian-Cenko/Eventify)  
-  A full-stack **Event & Reservation Management System** built with **Spring Boot** and **React**.
+  Eventify is an Event & Reservation Management System built with Spring Boot and React. The application enables users to browse available events, make reservations, and manage their bookings, while administrators can handle event creation and view statistics about bookings.
 
 - 🔗 [**RecyclingProject**](https://github.com/Florian-Cenko/RecyclingProject)  
   A **Recycling Awareness App** using **Java** (client-side) and **PHP** services (server-side).
