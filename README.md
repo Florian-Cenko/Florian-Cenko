@@ -1,27 +1,43 @@
-## Hi there I'm Florian👋
-I'm student at the Department of Applied Informatics at University of Macedonia and I love building applications that solve real problems. I like Python and Back-End Programming, and I'm constantly envolving through personal projects and online courses.
+# 👋 Hi there, I'm Florian Cenko
+
+🎓 I'm a student at the **Department of Applied Informatics** at the **University of Macedonia**, passionate about building practical applications that solve real-world problems.  
+
+💻 I enjoy working with **Python**, **Java**, and **Back-End development**, and I'm constantly evolving through **personal projects** and **online courses**.
 
 
-## 🛠️ What I already know:
-- **Python** (general programming, object-oriented design)
-- **Flask** (basic web application development)
-- **HTML/CSS** (for simple frontend structure)
-- **Git & GitHub** (for version control and code collaboration)
+## 🛠️ Tech Stack
 
-## 📚 Currently learning:
-- Web Development with Flask & Django
-- SQL and database design
-- Working with APIs and RESTful architecture
-
-## 🚀 Projects:
-- [Eventify: Event & Reservation Management System] (https://github.com/Florian-Cenko/Eventify)
-- [RecyclingProject: Recycling App] (https://github.com/Florian-Cenko/RecyclingProject)
-- [UoMBanking: e-banking system] (https://github.com/Florian-Cenko/UomBanking)
+- **Languages:** Python, Java (general programming, object-oriented design)
+- **Back-End Frameworks:** Flask, Spring Boot (basic web application development)
+- **Front-End:** HTML, CSS, JAVASCRIPT-REACT (for frontend structure)
+- **Tools:** Git & GitHub  (for version control and code collaboration)
 
 
-## 📬 How to reach me:
-- **Email:** cenkoflorian@gmail.com
-- **LinkedIn:** Florian Cenko (https://www.linkedin.com/in/florian-cenko-6a7a19252/)
+## 📚 Currently Learning
+
+- Web development with **Flask** (online course from Udemy)
+- **Spring Boot**
+- **React** (online course from Udemy)
+  
+## 🚀 Featured Projects
+
+Here are a few projects I'm proud of:
+
+- 🔗 [**Eventify**](https://github.com/Florian-Cenko/Eventify)  
+  A full-stack **Event & Reservation Management System** built with **Spring Boot** and **React**.
+
+- 🔗 [**RecyclingProject**](https://github.com/Florian-Cenko/RecyclingProject)  
+  A **Recycling Awareness App** using **Java** (client-side) and **PHP** services (server-side).
+
+- 🔗 [**UoMBanking**](https://github.com/Florian-Cenko/UomBanking)  
+  An **e-Banking System** built entirely in **Java** (desktop-based).
+
+
+## 📬 Let's Connect
+
+- 📧 Email: [cenkoflorian@gmail.com](mailto:cenkoflorian@gmail.com)  
+- 💼 LinkedIn: [Florian Cenko](https://www.linkedin.com/in/florian-cenko-6a7a19252/)
+
 
  
  
