@@ -30,7 +30,7 @@ Here are a few projects I'm proud of:
   A **Recycling Awareness App** using **Java** (client-side) and **PHP** services (server-side).
 
 - 🔗 [**UoMBanking**](https://github.com/Florian-Cenko/UomBanking)  
-  An **e-Banking System** built entirely in **Java** (desktop-based).
+  An e-Banking System built entirely in Java (desktop-based). This full-stack application was developed as part of a group project for the Software Engineering course. The system allows users to perform various banking operations, such as making transactions, taking loans, and creating cards.
 
   ## 🚀 Other Projects
 
