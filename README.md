@@ -23,6 +23,18 @@
 
 Here are a few projects I'm proud of:
 
+- 🔗 [**KU-Detection-And-Risk-Front-End**](https://github.com/Florian-Cenko/KU-Detection-And-Risk-Front-End)
+- 🔗 [**KU-Detection-And-Risk-Back-End**](https://github.com/Florian-Cenko/KU-Detection-And-Risk-Back-End)
+  My undergraduate thesis project focuses on quantifying technical knowledge concentration and developer dependency in software projects. I introduced two novel metrics:
+
+  📊 Knowledge Unit Risk (KU Risk): 
+
+  🧑‍💻 Employee Risk (Employee Risk): Evaluates the impact of losing specific team members.
+
+  I also modified and extended an interactive risk visualization tool to support data-driven decision-making in knowledge and human resource management. The tool was applied to various open-source repositories for real-world relevance.
+**Tech Stack: Python (Back-End), React (Front-End), Flask, Code Analysis Tools, GitHub API**.
+
+
 - 🔗 [**Eventify**](https://github.com/Florian-Cenko/Eventify)  
   Eventify is an **Event & Reservation Management System** built with Spring Boot and React. The application enables users to browse available events, make reservations, and manage their bookings, while administrators can handle event creation and view statistics about bookings. **Tech Stack: Spring Boot, React, JWT, MySQL**.
 
