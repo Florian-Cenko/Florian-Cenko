@@ -25,6 +25,7 @@ Here are a few projects I'm proud of:
 
 - 🔗 [**KU-Detection-And-Risk-Front-End**](https://github.com/Florian-Cenko/KU-Detection-And-Risk-Front-End)
 - 🔗 [**KU-Detection-And-Risk-Back-End**](https://github.com/Florian-Cenko/KU-Detection-And-Risk-Back-End)
+
   My undergraduate thesis project focuses on quantifying technical knowledge concentration and developer dependency in software projects. I introduced two novel metrics:
 
   📊 Knowledge Unit Risk (KU Risk): 
