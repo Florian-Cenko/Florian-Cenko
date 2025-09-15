@@ -16,9 +16,9 @@
 ## 📚 Currently Learning
 
 - Web development with **Flask** (online course from Udemy)
+- Python for **Data Science** and **Machine Learning** (online course from Udemy)
 - **Spring Boot**
 - **React** (online course from Udemy)
-- Python for **Data Science** and **Machine Learning** (online course from Udemy)
   
 ## 🚀 Featured Projects
 
