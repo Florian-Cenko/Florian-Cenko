@@ -45,10 +45,15 @@ Here are a few projects I'm proud of:
 - 🔗 [**UoMBanking**](https://github.com/Florian-Cenko/UomBanking)  
   An **e-Banking System** built entirely in **Java** (desktop-based). This full-stack application was developed as part of a group project for the Software Engineering course. The system allows users to perform various banking operations, such as making transactions, taking loans, and creating cards. **Tech Stack: Java, Hibernate, SQLite, Maven**.
 
-  ## 🚀 Other Projects
+## 🚀 Other Projects
+
+- 🔗 [**911 Calls Project**](https://github.com/Florian-Cenko/911-Calls-Project)  
+Analysis of 911 call data from Montgomery County, PA, using **Python**, **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.  
+This project explores call frequency, types of emergencies, and visualizes patterns over time.  
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 - 🔗 [**TicTacToePython**](https://github.com/Florian-Cenko/TicTacToePython)  
-  A classic **Tic Tac Toe** game developed using **Python**. The game includes basic functionality for player input, turn-based gameplay, win conditions, and replay options. The project demonstrates fundamental Python programming concepts such as conditionals, loops, and handling user input.
+A classic **Tic Tac Toe** game developed using **Python**. The game includes basic functionality for player input, turn-based gameplay, win conditions, and replay options. The project demonstrates fundamental Python programming concepts such as conditionals, loops, and handling user input.
 
 - 🔗 [**BlackjackPython**](https://github.com/Florian-Cenko/BlackjackPython)  
   A **Blackjack** card game written in **Python**. The game allows the player to place bets, hit or stand, and play against the dealer with rules based on the classic game of Blackjack. The project implements game logic, user interface (command-line), and basic gameplay mechanics.
