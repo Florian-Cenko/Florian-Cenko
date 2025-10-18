@@ -53,6 +53,12 @@ Analysis of 911 call data from Montgomery County, PA, using **Python**, **Pandas
 This project explores call frequency, types of emergencies, and visualizes patterns over time.  
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
+  - 🔗 [**Finance Data Project**](https://github.com/Florian-Cenko/Finance-Data-Project)  
+  Exploratory data analysis of stock prices using **Python** and **Pandas**. The project focuses on the performance of major U.S. bank stocks from the financial crisis (2007–2008)
+  up to early 2016.
+  It introduces advanced visualization and data manipulation concepts, emphasizing practical use of libraries for financial data exploration.
+  **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
 - 🔗 [**TicTacToePython**](https://github.com/Florian-Cenko/TicTacToePython)  
 A classic **Tic Tac Toe** game developed using **Python**. The game includes basic functionality for player input, turn-based gameplay, win conditions, and replay options. The project demonstrates fundamental Python programming concepts such as conditionals, loops, and handling user input.
 
