@@ -48,6 +48,21 @@ Here are a few projects I'm proud of:
 
 ## 🚀 Other Projects
 
+- 🔗 [**KNearest Neighbors Project**](https://github.com/Florian-Cenko/KNearest-Neighbors-Project)  
+Implements the **K-Nearest Neighbors algorithm** to classify data points based on similarity.
+Includes data preprocessing, model training, hyperparameter tuning (choosing the best K), and performance evaluation.
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+  - 🔗 [**Logistic Regression Project**](https://github.com/Florian-Cenko/Logistic-Regression-Project)  
+Applies logistic regression to predict whether an internet user will click on an advertisement based on browsing behavior and demographics.
+Focuses on binary classification, model evaluation, and feature interpretation.
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+- 🔗 [**Linear Regression Project**](https://github.com/Florian-Cenko/Linear-Regression-Project)  
+A regression analysis project for an **Ecommerce company** aiming to determine whether to focus on improving their **mobile app** or **website experience.**
+Uses linear regression to model and predict yearly customer spending based on time spent on the app, website, and other features.
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 - 🔗 [**911 Calls Project**](https://github.com/Florian-Cenko/911-Calls-Project)  
 Analysis of 911 call data from Montgomery County, PA, using **Python**, **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.  
 This project explores call frequency, types of emergencies, and visualizes patterns over time.  
