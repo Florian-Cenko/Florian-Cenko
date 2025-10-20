@@ -53,7 +53,7 @@ Implements the **K-Nearest Neighbors algorithm** to classify data points based o
 Includes data preprocessing, model training, hyperparameter tuning (choosing the best K), and performance evaluation.
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-  - 🔗 [**Logistic Regression Project**](https://github.com/Florian-Cenko/Logistic-Regression-Project)  
+- 🔗 [**Logistic Regression Project**](https://github.com/Florian-Cenko/Logistic-Regression-Project)  
 Applies logistic regression to predict whether an internet user will click on an advertisement based on browsing behavior and demographics.
 Focuses on binary classification, model evaluation, and feature interpretation.
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
