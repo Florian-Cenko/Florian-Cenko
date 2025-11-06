@@ -50,6 +50,11 @@ Here are a few projects I'm proud of:
 
 ## 🚀 Other Projects
 
+- 🔗 [**Natural Language Processing Project**](https://github.com/Florian-Cenko/NLP-Project)  
+Applies **Natural Language Processing (NLP)** techniques to classify **Yelp Reviews** as positive (5-star) or negative (1-star) based on their text content.
+Implements text preprocessing, feature extraction (Bag of Words, TF-IDF), and machine learning using **Naive Bayes** and Scikit-learn pipelines.   
+  - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn,NLTK
+    
 - 🔗 [**KMeans Clustering Project**](https://github.com/Florian-Cenko/KMeans-Clustering-Project)  
 Applies **KMeans Clustering** to group universities into clusters based on features such as tuition, faculty quality, and graduation rate.
 Evaluates clustering performance against actual private/public labels (for learning purposes).    
