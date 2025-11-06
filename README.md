@@ -53,12 +53,12 @@ Here are a few projects I'm proud of:
 - 🔗 [**KMeans Clustering Project**](https://github.com/Florian-Cenko/KMeans-Clustering-Project)  
 Applies **KMeans Clustering** to group universities into clusters based on features such as tuition, faculty quality, and graduation rate.
 Evaluates clustering performance against actual private/public labels (for learning purposes).    
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+ - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 - 🔗 [**Decision Trees and Random Forest Project**](https://github.com/Florian-Cenko/Decision-Trees-and-Random-Forest-Project)  
 Explores **LendingClub.com** loan data to predict whether borrowers fully repaid their loans using a **Random Forest Classifier**.
 Demonstrates data preprocessing, feature engineering, and model evaluation.   
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+ - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 - 🔗 [**KNearest Neighbors Project**](https://github.com/Florian-Cenko/KNearest-Neighbors-Project)  
 Implements the **K-Nearest Neighbors algorithm** to classify data points based on similarity.
