@@ -34,7 +34,7 @@ Here are a few projects I'm proud of:
   🧑‍💻 Employee Risk (Employee Risk): Evaluates the impact of losing specific team members.
 
   I also modified and extended an interactive risk visualization tool to support data-driven decision-making in knowledge and human resource management. The tool was applied to various open-source repositories for real-world relevance.
- - **Tech Stack: Python (Back-End), React (Front-End), Flask, Code Analysis Tools, GitHub API**.
+  - **Tech Stack: Python (Back-End), React (Front-End), Flask, Code Analysis Tools, GitHub API**.
 
 
 - 🔗 [**Eventify**](https://github.com/Florian-Cenko/Eventify)  
