@@ -34,17 +34,19 @@ Here are a few projects I'm proud of:
   🧑‍💻 Employee Risk (Employee Risk): Evaluates the impact of losing specific team members.
 
   I also modified and extended an interactive risk visualization tool to support data-driven decision-making in knowledge and human resource management. The tool was applied to various open-source repositories for real-world relevance.
-**Tech Stack: Python (Back-End), React (Front-End), Flask, Code Analysis Tools, GitHub API**.
+ - **Tech Stack: Python (Back-End), React (Front-End), Flask, Code Analysis Tools, GitHub API**.
 
 
 - 🔗 [**Eventify**](https://github.com/Florian-Cenko/Eventify)  
-  Eventify is an **Event & Reservation Management System** built with Spring Boot and React. The application enables users to browse available events, make reservations, and manage their bookings, while administrators can handle event creation and view statistics about bookings. **Tech Stack: Spring Boot, React, JWT, MySQL**.
+  Eventify is an **Event & Reservation Management System** built with Spring Boot and React. The application enables users to browse available events, make reservations, and manage their bookings, while administrators can handle event creation and view statistics about bookings.
+  - **Tech Stack: Spring Boot, React, JWT, MySQL**.
 
 - 🔗 [**RecyclingProject**](https://github.com/Florian-Cenko/RecyclingProject)  
   A **Recycling Awareness App** using **Java** (client-side) and **PHP** services (server-side). This project is designed to promote environmental awareness and help users track their recycling habits and related statistics.
 
 - 🔗 [**UoMBanking**](https://github.com/Florian-Cenko/UomBanking)  
-  An **e-Banking System** built entirely in **Java** (desktop-based). This full-stack application was developed as part of a group project for the Software Engineering course. The system allows users to perform various banking operations, such as making transactions, taking loans, and creating cards. **Tech Stack: Java, Hibernate, SQLite, Maven**.
+  An **e-Banking System** built entirely in **Java** (desktop-based). This full-stack application was developed as part of a group project for the Software Engineering course. The system allows users to perform various banking operations, such as making transactions, taking loans, and creating cards.
+  - **Tech Stack: Java, Hibernate, SQLite, Maven**.
 
 ## 🚀 Other Projects
 
