@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Florian Cenko
 
-🎓 I'm a student at the **Department of Applied Informatics** at the **University of Macedonia**, passionate about building practical applications that solve real-world problems.  
+🎓 I’m a **graduate of the Department of Applied Informatics** at the **University of Macedonia**, passionate about building practical applications that solve real-world problems.  
 
 💻 I enjoy working with **Python**, **Java**, and **Back-End development**, and I'm constantly evolving through **personal projects** and **online courses**.
 
