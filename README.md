@@ -53,7 +53,7 @@ Here are a few projects I'm proud of:
 - 🔗 [**Loan-Default-Predicition**](https://github.com/Florian-Cenko/Loan-Default-Prediction)  
 Builds a **deep learning classification model** using **Keras** to predict whether a borrower will **repay a loan or default** based on historical LendingClub data.
 Includes data preprocessing, feature engineering, model training, and evaluation using classification metrics.
- - **Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow**
+  - **Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow**
 
 - 🔗 [**Natural Language Processing Project**](https://github.com/Florian-Cenko/NLP-Project)  
 Applies **Natural Language Processing (NLP)** techniques to classify **Yelp Reviews** as positive (5-star) or negative (1-star) based on their text content.
